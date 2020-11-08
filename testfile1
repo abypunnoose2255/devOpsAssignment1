@@ -1,0 +1,25 @@
+{
+   "FourKitesLoadId":66248065,
+   "IsDriver":false,
+   "LoadNumber":"36903540_0001_VIS",
+   "MessageType":"USER_NOTE",
+   "Note":"TEST1 ",
+   "ProNumber":null,
+   "ReferenceNumbers":[
+      "36903540",
+      "GLOG Refnum: DOW/PRD500.36903540_0001_VIS"
+   ],
+   "Scac":"341619",
+   "Shipper":"abcd",
+   "Tags":[
+      "late",
+      "NAA",
+      "B462",
+      "SO",
+      "PACKAGING \u0026 SPECIALTY PLASTICS",
+      "CFISK@DOW.COM",
+      "NON HAZARDOUS GOODS"
+   ],
+   "Timestamp":"2020-06-09T17:25:24+00:00",
+   "UserId":"xpo-managedtransportation"
+}
