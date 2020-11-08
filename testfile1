@@ -3,14 +3,15 @@
    "IsDriver":false,
    "LoadNumber":"36903540_0001_VIS",
    "MessageType":"USER_NOTE",
-   "Note":"TEST1 ",
+   "Note":"TEST1",
    "ProNumber":null,
    "ReferenceNumbers":[
-      "36903540",
+      "36903541",
       "GLOG Refnum: DOW/PRD500.36903540_0001_VIS"
    ],
    "Scac":"341619",
    "Shipper":"abcd",
+   "ContributorAdd": "Yes",
    "Tags":[
       "late",
       "NAA",
