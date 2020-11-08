@@ -1,25 +1,37 @@
-{
-   "FourKitesLoadId":66248065,
-   "IsDriver":false,
-   "LoadNumber":"36903540_0001_VIS",
-   "MessageType":"USER_NOTE",
-   "Note":"TEST1",
-   "ProNumber":null,
-   "ReferenceNumbers":[
-      "36903541",
-      "GLOG Refnum: DOW/PRD500.36903540_0001_VIS"
-   ],
-   "Scac":"341619",
-   "Shipper":"abcd",
-   "Tags":[
-      "late",
-      "NAA",
-      "B462",
-      "SO",
-      "PACKAGING \u0026 SPECIALTY PLASTICS",
-      "CFISK@DOW.COM",
-      "NON HAZARDOUS GOODS"
-   ],
-   "Timestamp":"2020-06-09T17:25:24+00:00",
-   "UserId":"xpo-managedtransportation"
-}
+<?xml version='1.0' encoding='UTF-8'?>
+<_-GLB_-1GT_TM_EVENT_MANG_01>  
+	<IDOC BEGIN="1">    
+		<EDI_DC40 SEGMENT="1">      
+			<TABNAM>EDI_DC40</TABNAM>      
+			<DIRECT>2</DIRECT>      
+			<IDOCTYP>/GLB/1GT_TM_EVENT_MANG_01</IDOCTYP>      
+			<MESTYP>/GLB/1GT_TM_EVENT_MANG</MESTYP>      
+			<SNDPOR/>      
+			<SNDPRT>LS</SNDPRT>      
+			<SNDPRN>AUEITVO001</SNDPRN>      
+			<RCVPOR/>      
+			<RCVPRT>LS</RCVPRT>      
+			<RCVPRN>C4VPPST102</RCVPRN>    
+		</EDI_DC40>    
+		<_-GLB_-1GT_FO_DETAILS SEGMENT="1">      
+			<FO_NUMBER>A199001251</FO_NUMBER>      
+			<_-GLB_-1GT_FO_DYN_SEG_01 SEGMENT="1">        
+				<QUALIFIER>VEHICLE_ID</QUALIFIER>        
+				<FIELDVAL>TR-12345</FIELDVAL>      
+			</_-GLB_-1GT_FO_DYN_SEG_01>      
+			<_-GLB_-1GT_FO_DYN_SEG_01 SEGMENT="1"/>      
+			<_-GLB_-1GT_FO_DYN_SEG_01 SEGMENT="1"/>      
+			<_-GLB_-1GT_FO_DYN_SEG_01 SEGMENT="1"/>      
+			<_-GLB_-1GT_FO_DYN_SEG_01 SEGMENT="1"/>      
+			<_-GLB_-1GT_EVENT_DETAILS SEGMENT="1">        
+				<EVENT_TYPE>ZZ_TRACKING_INFO</EVENT_TYPE>        
+				<EVENT_OBJ>A</EVENT_OBJ>        
+				<_-GLB_-1GT_EVENT_TIME_DETAILS SEGMENT="1">          
+					<DATE>20201106</DATE>          
+					<TIME>113325</TIME>          
+					<TIME_ZONE>UTC</TIME_ZONE>        
+				</_-GLB_-1GT_EVENT_TIME_DETAILS>      
+			</_-GLB_-1GT_EVENT_DETAILS>    
+		</_-GLB_-1GT_FO_DETAILS>  
+	</IDOC>
+</_-GLB_-1GT_TM_EVENT_MANG_01>
